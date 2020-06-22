@@ -7,5 +7,5 @@
 
 ------
 
-<p align="center"><img src="https://i.loli.net/2020/06/21/kC6K237WbamvDiR.jpg"></p>
-<p align="center">©Copyright [jx.zeng](jx.zeng.xtu@gmail.com) 2020</p>
+<p align="center"><img height="100" src="https://i.loli.net/2020/06/21/kC6K237WbamvDiR.jpg"></p>
+<p align="center">©Copyright <a href="jx.zeng.xtu@gmail.com">jx.zeng</a> 2020</p>
