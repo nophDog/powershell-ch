@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# PowerShell About 中文
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<center>![67ef874b-3258-49f9-9ac1-6b7e6bfc1afa.png](https://i.loli.net/2020/06/21/kC6K237WbamvDiR.jpg)</center>
 
-## Commands
+尽管距离 PowerShell 正式“出道”（2007 年初）已经接近十三年，但是在中文圈，PowerShell 似乎没有掀起太大的浪潮，会用的人持续跟进，不会用的呢，也选择敬而远之，微软的技术创新能力毋庸置疑，但是它对开发者的态度，已经让太多人“背井离乡”。目前，PowerShell 已经开源并且使用 Net Core 技术作为 backend，因此，倒也不必杞人忧天，更何况使用 Windows 的开发者也不在少数。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+学习 PS 的过程中，我自己也看过基本英文资料，断断续续，总觉得自己还不会走，就想着跑。在查阅资料时，发现微软文档这一块的工作很到位，所以不想错过这块资源，将里面的一些基础的东西学习翻译，适时再阅读进阶资料，想必也能受益匪浅。
 
-## Project layout
+**为什么不翻译其它部分呢？**其它大部分内容属于内置命令 (`Cmdlet`) 的范畴，过于庞大繁杂，且适合使用时翻找查阅，当参考字典用，故不作翻译。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+⛔ 请注意：这只是一份**翻译**，并不是**教程**，当你在阅读时遇到无法理解的概念性名词，请善用 Google 等搜索引擎，关键字选得好，基本上第一条链接就能解答你的困惑。
